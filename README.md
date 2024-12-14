@@ -10,7 +10,7 @@ So let's share our ideas together 💡😄!
 
 ## Skills:
 - Web Development
-- WPF Applications
+- Database Systems
 - Problem Solving
 
 ## Tools:
@@ -26,7 +26,7 @@ So let's share our ideas together 💡😄!
 ## 🌟 About Me:
 
 - 🔭 I’m currently working on web and mobile app development using C# and ASP.NET Core 8 frameworks.
-- 🌱 I’m currently learning more about ASP.NET Core 8, C#, and WPF applications.
+- 🌱 I’m currently learning more about ASP.NET Core 8, C# applications.
   <!--- 👯 I’m looking to collaborate on open-source projects related to web and WPF app development.-->
 - 🤔 I’m looking for help with enhancing my problem-solving skills and learning best practices in software development.
 - 💬 Ask me about web development, mobile app development, and C# or C++ programming.
