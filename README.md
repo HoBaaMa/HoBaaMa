@@ -1,35 +1,79 @@
-## Hi there 👋
-<!--**HoBaaMa/HoBaaMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!--![Banner](path/to/your/banner/image.png)-->
+## 👋 Hello there!
 
-Hello!👋 My name is <b>Ehab Sadiq</b>. I am a Computer Science student passionate about software development, specifically in web, mobile, and WPF app development.
+I'm **Ehab Sadiq**, a passionate Computer Science student with a strong interest in software development. I love building scalable and efficient applications across the web and desktop (WPF) platforms.
 
-I am currently learning C# and ASP.NET Core 8 frameworks and always excited to help with problem-solving while seeking help to grow my skills efficiently.
+Currently, I’m diving deep into **C#** and **ASP.NET Core 8**, constantly exploring how to write clean, maintainable, and modern code. I enjoy tackling real-world problems through software and am always open to learning from others.
 
-So let's share our ideas together 💡😄!
+Let’s grow together and share ideas 💡
 
-## Skills:
-- Web Development
-- Database Systems
-- Problem Solving
+---
 
-## Tools:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Skills & Interests
+
+- Full-Stack Web Development  
+- Desktop (WPF) Development  
+- Object-Oriented Programming  
+- Relational Databases & SQL  
+- Problem Solving & Algorithms  
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 
 
-## 🌟 About Me:
+---
 
-- 🔭 I’m currently working on web and mobile app development using C# and ASP.NET Core 8 frameworks.
-- 🌱 I’m currently learning more about ASP.NET Core 8, C# applications.
-  <!--- 👯 I’m looking to collaborate on open-source projects related to web and WPF app development.-->
-- 🤔 I’m looking for help with enhancing my problem-solving skills and learning best practices in software development.
-- 💬 Ask me about web development, mobile app development, and C# or C++ programming.
+## 🌱 Currently Exploring
 
-## Connect with me:
+- Building RESTful APIs with ASP.NET Core 8  
+- Designing responsive UIs and scalable backends  
+- Improving my data structures & algorithm skills  
+- Following software engineering best practices
+
+---
+
+## 💬 Ask Me About
+
+- ASP.NET Core & C# Development  
+- Web App Architecture & API Design  
+- SQL & Relational Databases  
+- Debugging & Clean Code Principles  
+
+---
+
+## 🔗 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehab-sadiq/)
+
+---
+
+_Thanks for visiting! Let’s build something awesome together 🚀_
+
+---
+
+<img src="https://raw.githubusercontent.com/HoBaaMa /HoBaaMa /output/snake.svg" alt="Snake animation" />
+
