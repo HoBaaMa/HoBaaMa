@@ -69,11 +69,3 @@ Let’s grow together and share ideas 💡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehab-sadiq/)
 
----
-
-_Thanks for visiting! Let’s build something awesome together 🚀_
-
----
-
-<img src="https://raw.githubusercontent.com/HoBaaMa /HoBaaMa /output/snake.svg" alt="Snake animation" />
-
